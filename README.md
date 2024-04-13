@@ -9,7 +9,7 @@
 </a>
 
 <br />
-<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250">
+<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "300" width="250">
 
 
 - I graduated from faculty of computer and information technology, menoufia University, Egypt.<br>
