@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Basant Elsobky
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 
-<a href="www.linkedin.com/in/basant-elsobky-435528254">
+<a href="https://www.linkedin.com/in/basant-elsobky-435528254/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/basant-elsobky">
