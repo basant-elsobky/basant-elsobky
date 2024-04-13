@@ -1,13 +1,23 @@
 <h1 align="center">Hi,I'm Basant Elsobky
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 
-<p align ="left">
-> - 🔭 I graduated from faculty of computer and information technology, menoufia University, Egypt.<br>
-> - 🌱 I’m learning Frontend Web Development.<br>
-> - 🤝 I’m looking to collaborate on some web projects.<br>
-> - 📫 How to reach me: basantheshem9@gmail.com<br>
-</p>
-<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250">
+<a href="www.linkedin.com/in/basant-elsobky-435528254">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/basant-elsobky">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+
+- I graduated from faculty of computer and information technology, menoufia University, Egypt.<br>
+- I’m learning Frontend Web Development.<br>
+- I’m looking to collaborate on some web projects.<br>
+- How to reach me: basantheshem9@gmail.com.<br>
+- Currently working on some of my cool side projects based on Web Development .<br>
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br>
 
 ---
 ### Tech & Tools Preference
