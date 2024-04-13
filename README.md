@@ -2,10 +2,10 @@
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 
 <p align ="left">
-> - 🔭 I graduated from faculty of computer and information technology, menoufia University, Egypt.
-> - 🌱 I’m learning Frontend Web Development.
-> - 🤝 I’m looking to collaborate on some web projects.
-> - 📫 How to reach me: basantheshem9@gmail.com
+> - 🔭 I graduated from faculty of computer and information technology, menoufia University, Egypt.<br>
+> - 🌱 I’m learning Frontend Web Development.<br>
+> - 🤝 I’m looking to collaborate on some web projects.<br>
+> - 📫 How to reach me: basantheshem9@gmail.com<br>
 </p>
 <img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250">
 
